@@ -5,8 +5,8 @@ const REQUIRE_ENV_VARS = false;
 
 const TITLE = 'Photo Blog';
 const DESCRIPTION = 'Store photos with original camera data';
-const REPO_TEAM = 'sambecker';
-const REPO_NAME = 'exif-photo-blog';
+const REPO_TEAM = 'Kalimero-Von-Bulow';
+const REPO_NAME = 'letsrock-kalimero';
 
 export function GET() {
   const url = new URL('https://vercel.com/new/clone');
