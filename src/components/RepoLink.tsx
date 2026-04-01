@@ -18,7 +18,7 @@ export default function RepoLink() {
         )}
       >
         <BiLogoGithub className="translate-y-[1px] hidden xs:inline-block" />
-        let's Rock
+        letsrock-kalimero
       </Link>
     </span>
   );
