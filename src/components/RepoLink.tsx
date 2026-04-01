@@ -9,7 +9,7 @@ export default function RepoLink() {
         Made with
       </span>
       <Link
-        href="http://github.com/sambecker/exif-photo-blog"
+        href="https://github.com/Kalimero-Von-Bulow/letsrock"
         target="_blank"
         className={cc(
           'flex items-center gap-1',
@@ -18,7 +18,7 @@ export default function RepoLink() {
         )}
       >
         <BiLogoGithub className="translate-y-[1px] hidden xs:inline-block" />
-        exif-photo-blog
+        let's Rock
       </Link>
     </span>
   );
